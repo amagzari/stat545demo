@@ -4,4 +4,6 @@ Demonstration for STAT 545
 
 We are doing some analyses!
 
-Changed my mind about the second set of analyses 
+We are going to do some more analyses. 
+
+Can I make changes?
